@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-A 5 way game of rock paper scissors for an assignment
+#Game assignment
+#This is just a simple rerun on rock paper scissors
